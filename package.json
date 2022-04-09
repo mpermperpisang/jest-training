@@ -1,0 +1,16 @@
+{
+  "name": "sinau-bareng-kak-seto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -t"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1",
+    "supertest": "^6.2.2"
+  }
+}
